@@ -12,3 +12,7 @@
 サイズは Kindle など、7 インチのデバイスに最適化してる。こちらを参考にさせていただいた。
 
 - [= LaTeXからPDFをKindleで読みやすく - ぺっくブログミラー@peccul](http://d.hatena.ne.jp/peccu/20111120/latex2kindle)
+
+```TeX
+¥usepackage[paperwidth=13.5cm, paperheight=17.25cm, top=0.5cm, left=0.5cm, right=0.5cm, bottom=0.5cm]{geometry}
+```

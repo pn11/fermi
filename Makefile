@@ -9,4 +9,4 @@ dvi:
 pdf:
 	${DVI2PDF} ${FILENAME}
 clean:
-	rm *~ *.aux *.log *.toc *dvi *.pdf *.idx ${FILENAME}.synctex.gz
+	rm *~ *.aux *.log *.toc *dvi *.idx ${FILENAME}.synctex.gz
