@@ -1,0 +1,7 @@
+*~
+*.aux
+*.log
+*.toc
+*dvi
+*.idx
+fermi.synctex.gz
